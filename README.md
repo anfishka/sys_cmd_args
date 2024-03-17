@@ -1,4 +1,6 @@
 
 
-https://github.com/anfishka/sys_cmd_args/assets/97487005/c59ad14a-968b-4aa4-929c-684d39e20e5b
+
+
+https://github.com/anfishka/sys_cmd_args/assets/97487005/adce71be-b56e-4edc-b3dd-8e03533ae79c
 
