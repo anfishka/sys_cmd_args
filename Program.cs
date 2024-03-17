@@ -64,8 +64,8 @@ Console.WriteLine("---------------------------");
 //4) Запустить гуглХром в инкогнито режиме на полный экран с страницей майстата
 // myApp --Calc --Notepad
 
-string url = "https:///mystat.itstep.org";
-string configs = "-–incognito -–start-maximized";
+string url = "https://mystat.itstep.org";
+string configs = "--incognito --start-fullscreen";
 try
 {
 Process.Start("\"C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe\"", $"{configs} {url}");
@@ -74,6 +74,8 @@ catch (Exception ex)
 {
     Console.WriteLine($"An error occurred while trying to launch Google Chrome browser: {ex.Message}");
 }
+
+
 
 Console.WriteLine("---------------------------");
 
